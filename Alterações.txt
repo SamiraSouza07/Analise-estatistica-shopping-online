@@ -1,0 +1,7 @@
+Data:
+Autor:
+Resumo da alteração:
+
+Data: 20/02/24
+Autor: Bianca
+Resumo da alteração: Removendo os valores null
